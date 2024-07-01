@@ -12,7 +12,7 @@ A simple virtual pet clicker game built with Pygame where you can interact with 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/virtual-pet-clicker.git
+    git clone https://github.com/ash250604/virtual-pet-clicker.git
     ```
 2. Navigate to the project directory:
     ```bash
